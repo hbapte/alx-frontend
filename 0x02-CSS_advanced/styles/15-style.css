@@ -36,12 +36,12 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     --section-title-color: var(--color-black);
 }
 
-/* the behavior of the scroll to be as fluid as possible. */
-
-* {
+/* Universal box-sizing */
+* , *::after, a::before{
     box-sizing: border-box;
 }
 
+/* the behavior of the scroll to be as fluid as possible. */
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
