@@ -1,11 +1,15 @@
 # ALX FRONTEND
+---
 
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
 
+
 ### CONTENT
 ---
-1. [ADVANCED-HTML]()
-2.  
+1. [0x00-html_advanced](https://github.com/hbapte/alx-frontend/tree/main/0x00-html_advanced)
+2. [0x01-developer_tools](https://github.com/hbapte/alx-frontend/tree/main/0x01-developer_tools)
+3. [0x02-CSS_advanced](https://github.com/hbapte/alx-frontend/tree/main/0x02-CSS_advanced)
+4. [0x03-responsive_design](https://github.com/hbapte/alx-frontend/tree/main/0x03-responsive_design)  
 
 
 
